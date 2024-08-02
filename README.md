@@ -43,3 +43,5 @@ This project involves the development of a soil moisture monitoring system using
 
 #### Conclusion
 This soil moisture monitoring system provides a simple and effective way to monitor soil moisture levels. It can be extended to include features like automated irrigation control, data logging, and remote monitoring. Such systems are beneficial in agriculture and gardening to maintain optimal soil conditions and improve crop yield.
+
+![Screenshot 2024-08-02 211842](https://github.com/user-attachments/assets/78ecb1d2-2e20-4243-a1fc-f02c6d4f47d4)
